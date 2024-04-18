@@ -6,6 +6,8 @@ This project is a simulation of how an operating system performs memory manageme
 
 The purpose of this project is primarily for learning. It provides a visualization or simulation of memory management techniques used by operating systems. It demonstrates how memory is allocated, deallocated, and managed using OS algorithms.
 
+The data structures are coded to only use the memory that has been allocated by the OS algorithm, this is to make use of the allocated memory.
+
 ## Usage
 
 To run the project, follow these steps:
@@ -20,7 +22,7 @@ To run the project, follow these steps:
 
 5. Follow the on-screen instructions to choose a data structure to visualize.
 
-## Data Structures Implemented
+## Included Data Structures 
 
 1. Linked List
 2. Hash Map (Not implemented yet)
