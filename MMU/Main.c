@@ -3,7 +3,7 @@
 
 #include "MemManagement.c"
 #include "MemManagement.h"
-#include "LinkedList.c"
+#include "../DataStructures/LinkedList.c"
 
 int main(void)
 {
